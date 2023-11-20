@@ -72,4 +72,8 @@ extension CharacterDetailViewModel: CharacterDetailViewModelProtocol {
             didDataLoaded?(image, character)
         }
     }
+
+    private func loadCharacters() {
+        
+    }
 }
