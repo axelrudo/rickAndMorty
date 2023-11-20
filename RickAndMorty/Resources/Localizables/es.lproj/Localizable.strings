@@ -1,0 +1,9 @@
+/* Characters */
+"characters_title" = "Personajes";
+
+/* Alert error */
+"alert_error_ok" = "Aceptar";
+"alert_error_title" = "Error";
+
+/* Favorites */
+"favorites_title" = "Favoritos";

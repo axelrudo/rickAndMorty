@@ -1,0 +1,14 @@
+/* Main */
+"main_profile" = "Perfil";
+
+/* Profile */
+"profile_title" = "Perfil";
+"profile_editProfileButton_title" = "Editar perfil";
+"profile_removeUserButton_title" = "Eliminar usuario";
+
+/* Edit profile */
+"editprofile_title" = "Editar perfil";
+"editprofile_name_title" = "Nombre";
+"editprofile_secondName_title" = "Apellido";
+"editprofile_birthday_title" = "Fecha de nacimiento";
+"editprofile_saveButton_title" = "Guardar";

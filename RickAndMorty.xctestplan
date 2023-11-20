@@ -1,0 +1,32 @@
+{
+  "configurations" : [
+    {
+      "id" : "C65A9A92-FFC5-49D5-96CA-D54261EC9361",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "environmentVariableEntries" : [
+      {
+        "key" : "UNITTEST",
+        "value" : "1"
+      }
+    ],
+    "mainThreadCheckerEnabled" : false,
+    "uiTestingScreenshotsLifetime" : "keepNever",
+    "userAttachmentLifetime" : "keepNever"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:RickAndMorty.xcodeproj",
+        "identifier" : "77916B792A739D7F00FE4582",
+        "name" : "RickAndMortyTests"
+      }
+    }
+  ],
+  "version" : 1
+}
